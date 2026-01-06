@@ -58,12 +58,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=satyamsinghs408&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="Satyam Singh GitHub Stats"
-  />
-</p>
+![Satyam Singh GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamsinghs408&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ---
 
