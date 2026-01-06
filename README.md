@@ -57,8 +57,10 @@
 ---
 
 ## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=satyamsinghs408&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Satyam Singh GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamsinghs408&show_icons=true&theme=tokyonight&hide_border=true)
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=satyamsinghs408&theme=tokyonight&hide_border=true)
 
 
 ---
