@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Satyam Singh</h1>
-<h3 align="center">Full-Stack Web Developer | JavaScript | React | Node.js</h3>
+<h3 align="center">Full-Stack Web Developer | JavaScript | TypeScript | React | Node.js</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/satyam-singh-020178245/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Satyam%20Singh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://satyamsinghsportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/satyamsinghs408" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
@@ -14,11 +17,11 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer with hands-on experience in **React & Node.js**
+- 💻 Full-Stack Developer with hands-on experience in **React, TypeScript & Node.js**
 - 🌱 Currently improving **Backend, APIs, and System Design**
 - 🔭 Built multiple real-world projects (Booking System, Expense Tracker, AI tools)
 - 🤝 Open to collaboration on **Web & AI-based projects**
-- 💬 Ask me about **JavaScript, React, Node.js, APIs**
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, APIs**
 - ⚡ Fun fact: I enjoy building products, not just demos
 
 ---
@@ -27,6 +30,7 @@
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
@@ -55,12 +59,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamsinghs408&show_icons=true&theme=dark" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=satyamsinghs408&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Satyam Singh GitHub Stats"
+  />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+- 💼 LinkedIn: https://www.linkedin.com/in/satyam-singh-020178245/
+- 🌐 Portfolio: https://satyamsinghsportfolio.netlify.app/
 - 🧑‍💻 GitHub: https://github.com/satyamsinghs408
