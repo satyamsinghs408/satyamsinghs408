@@ -56,17 +56,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=satyamsinghs408&show_icons=true&theme=tokyonight&hide_border=true)
-
-## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com?user=satyamsinghs408&theme=tokyonight&hide_border=true)
-
-
----
-
 ## 📫 Contact Me
 
+- 📧 Email: [satyamsinghs408@gmail.com](mailto:satyamsinghs408@gmail.com)
 - 💼 LinkedIn: https://www.linkedin.com/in/satyam-singh-020178245/
 - 🌐 Portfolio: https://satyamsinghsportfolio.netlify.app/
 - 🧑‍💻 GitHub: https://github.com/satyamsinghs408
