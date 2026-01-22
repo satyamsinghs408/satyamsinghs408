@@ -49,10 +49,10 @@
 
 ## 📌 Featured Projects
 
-- **Booking System** – Full booking workflow with authentication  
-- **Expense Tracker** – Manage daily expenses with clean UI  
-- **Weather Finder** – Weather app using OpenWeather API  
-- **AI Prompt to Image Generator** – AI-powered media generation app (in progress)
+- **Resume Builder** – Interactive resume builder with live preview and PDF export and select multiple template. 
+- **File Converter** – Lightweight tool to convert images to PDF using client-side rendering.  
+- **Ignite Verse** – Full-stack test/quiz and evaluation platform with real-time analytics.  
+- **AI Prompt to Short Video Generator** – AI-powered media generation app (in progress)
 
 ---
 
